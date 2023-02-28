@@ -44,20 +44,20 @@ telegram bot project for streaming video on telegram video chat, powered by [tgc
 
 COMMAND | FUNCTION 👻
 :--- | :---
-`/start` | start bot
-`/help`| get help
-`/video` [name] | download the video
+`!start` | start bot
+`!help`| get help
+`!video` [name] | download the video
 
 🏷️ --**Admin Only Commands**-- :
 
 COMMAND | FUNCTION
 :--- | :---
-` /play` | video url
-`/play`| stream the replied video
-`/mute` | mute the userbot in vc
-`/unmute` | unmute the userbot in vc
-`/end`| end stream and left vc
-`/skip`| to skip a current song
+` !play` | video url
+`!play`| stream the replied video
+`!mute` | mute the userbot in vc
+`!unmute` | unmute the userbot in vc
+`!end`| end stream and left vc
+`!skip`| to skip a current song
 
 ## 🍁 Get STRING_SESSION from below:
 
